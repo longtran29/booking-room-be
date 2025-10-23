@@ -2,6 +2,8 @@
 
 A Django-based booking service application with time slot management, Stripe payment integration, and secure JWT authentication.
 
+**Live Demo:** https://demmo-test.vercel.app/api
+
 ## Test Accounts
 
 **Regular User:**
