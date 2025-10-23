@@ -12,6 +12,10 @@ A Django-based booking service application with time slot management, Stripe pay
 - Email: `admin@gmail.com`
 - Password: `123456Long`
 
+**Stripe Test Cards:**
+- **Valid Card (Success)**: `4242 4242 4242 4242` - Exp: `03/29` - CVC: `333`
+- **Insufficient Funds (Decline)**: `4000 0000 0000 9995` - Exp: `03/29` - CVC: `333`
+
 ## Overview
 
 This application provides a complete booking system for rooms/services with the following features:
