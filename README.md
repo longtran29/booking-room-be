@@ -2,6 +2,16 @@
 
 A Django-based booking service application with time slot management, Stripe payment integration, and secure JWT authentication.
 
+## Test Accounts
+
+**Regular User:**
+- Email: `longtran20014@gmail.com`
+- Password: `123456Long`
+
+**Staff/Admin User:**
+- Email: `admin@gmail.com`
+- Password: `123456Long`
+
 ## Overview
 
 This application provides a complete booking system for rooms/services with the following features:
